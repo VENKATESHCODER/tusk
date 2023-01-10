@@ -8,6 +8,8 @@ c
 java
 python
 
+c++
+tableau
 
 
 
